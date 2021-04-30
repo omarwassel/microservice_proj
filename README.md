@@ -1,6 +1,6 @@
 # microservice_proj
 
-##services in project
+## services in project
 
 1. [udagram-feed link](https://github.com/omarwassel/udagram-feed-microservice)
 2. [reverse proxy link](https://github.com/omarwassel/simple-reverse-proxy)
